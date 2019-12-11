@@ -10,6 +10,7 @@ import java.util.Map;
  * This program will print out name by states in a HashMap
  * The outputfile will be used for a word cloud design 
  */
+ 
 public class Enough {
 
 	public static void main(String[] args) throws IOException {
